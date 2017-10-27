@@ -1,3 +1,5 @@
 # recipes
 
 Vegan
+
+Fruits
